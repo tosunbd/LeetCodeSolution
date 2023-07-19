@@ -18,7 +18,11 @@ class Solution(object):
         return answer
 
 # Example input
+<<<<<<< HEAD
 nums = [-1, 1, 0, -3, 3]
+=======
+nums = [-1,1,0,-3,3]
+>>>>>>> e6e485ac1e7d301931f6ddfb1da313fd65a3e786
 
 # Create an instance of the Solution class
 solution = Solution()
